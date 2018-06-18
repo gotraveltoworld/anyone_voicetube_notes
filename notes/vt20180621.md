@@ -4,7 +4,7 @@
 > There are no country-wide laws on names, but different states have different restrictions. Mostly based off of how advanced their computer systems that handle name registration are.<br>
 > 沒有全國性的規定，但不同州有不同的限制，大致上是基於他們處理姓名註冊的系統有多先進。<br>
 
-## Study points
+## learning points
 1. restriction  限制
     * restriction  [rɪˋstrɪkʃən]  (n.)  限制
         - restriction....

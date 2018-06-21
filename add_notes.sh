@@ -10,7 +10,7 @@ do
         echo $now', Exist'
     else
         echo $now', No Exist'
-        # cp notes/note_paradigm.md $FOLDER/vt$now.md
-        touch $FOLDER/vt$now.md
+        cp $FOLDER/note_paradigm.md $FOLDER/vt$now.md
+        # touch $FOLDER/vt$now.md
     fi
 done

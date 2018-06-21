@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DAYS=30
-FOLDER='other_data'
+FOLDER='notes'
 # For example: vt20171130
 for (( i=0; i<=$DAYS; i=i+1 ))
 do

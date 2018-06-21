@@ -4,6 +4,9 @@
 > There are no country-wide laws on names, but different states have different restrictions. Mostly based off of how advanced their computer systems that handle name registration are.<br>
 > 沒有全國性的規定，但不同州有不同的限制，大致上是基於他們處理姓名註冊的系統有多先進。<br>
 
+## Host
+Judy Huang
+
 ## Learning points
 1. restriction  限制
     * restriction  [rɪˋstrɪkʃən]  (n.)  限制
@@ -24,7 +27,7 @@
         - This movie is based on true story.
             + 這個電影是以真實故事為基礎
     * basic  [ˋbesɪk]  (adj.)  基礎的
-        - The basic salary in Taiwan is twenty-two thousands N.T. dollars per month.
+        - The basic salary in Taiwan is twenty-two thousand N.T. dollars per month.
             + 台灣基本薪資是每月22K(悲哀喔~~~~)
 
 3. advanced  先進的、高級的
@@ -42,5 +45,3 @@
     * deal with  (phr.)  處理
         -  I will deal with this problem later.
             + 我稍後會處理這個問題
-
-

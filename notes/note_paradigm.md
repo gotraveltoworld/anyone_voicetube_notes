@@ -8,7 +8,7 @@
 Judy Huang
 
 ## Learning points
-1. restriction  限制
+1.
     * restriction  [rɪˋstrɪkʃən]  (n.)  限制
         - restriction....
     * restrict  [rɪˋstrɪkt]  (v.)  限制
@@ -20,7 +20,7 @@ Judy Huang
         - She refrained from crying.
             + 她忍住不哭
 
-2. base  以……為基礎
+2.
     * base  [bes]  (v.)  以……為基礎
         - base[長音]
         - 介係詞(+ on)
@@ -30,7 +30,7 @@ Judy Huang
         - The basic salary in Taiwan is twenty-two thousand N.T. dollars per month.
             + 台灣基本薪資是每月22K(悲哀喔~~~~)
 
-3. advanced  先進的、高級的
+3.
     * advanced  [ədˋvænst]  (adj.)  先進的、高級的
         - He took an advanced English course in the university.
             + 他在大學裡修了一堂進階英文課
@@ -38,7 +38,7 @@ Judy Huang
         - He is trying hard to advance his career.
             + 他很努力要提升他的事業
 
-4. handle  處理
+4.
     * handle  [ˋhænd!]  (v.)  處理
         - She can always handle situations well.
             + 她總是可以把各種況狀處理的很好
